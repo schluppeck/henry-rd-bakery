@@ -2,7 +2,7 @@
 description: From Jonathan and Gaynor's bakery.
 ---
 
-# \(Yeasted\) White bread
+# White Farmhouse Loaf
 
 ![](.gitbook/assets/white-loaf.jpeg)
 
