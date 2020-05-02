@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Bagels](bagels.md)
 * [Ciabatta](ciabatta.md)
+* [Date and Oat Fruit Loaf](date-and-oat-fruit-loaf.md)
 * [Pizza](pizza.md)
-* [Sourdough bread and hummus](sourdough-bread-and-hummus.md)
+* [Sourdough and hummus](sourdough-and-hummus.md)
 
