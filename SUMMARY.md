@@ -2,8 +2,11 @@
 
 * [Welcome](README.md)
 * [Bagels](bagels.md)
+* [Chapatis](chapatis.md)
 * [Ciabatta](ciabatta.md)
+* [Clementine Polenta Cake \(GF\)](clementine-polenta-cake-gf.md)
 * [Date and Oat Fruit Loaf](date-and-oat-fruit-loaf.md)
+* [German-style Apple Cake](german-style-apple-cake.md)
 * [Pizza](pizza.md)
 * [Sourdough and hummus](sourdough-and-hummus.md)
 * [White Farmhouse Loaf](yeasted-white-bread.md)
