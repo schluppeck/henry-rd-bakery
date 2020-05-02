@@ -6,4 +6,5 @@
 * [Date and Oat Fruit Loaf](date-and-oat-fruit-loaf.md)
 * [Pizza](pizza.md)
 * [Sourdough and hummus](sourdough-and-hummus.md)
+* [\(Yeasted\) White bread](yeasted-white-bread.md)
 
