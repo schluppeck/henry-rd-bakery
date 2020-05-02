@@ -12,3 +12,5 @@ From bagels to pizza, apple cake to stuffed chapatis, there is a fun and delicio
 
 Enjoy! 🍕🍞 🍩 ❤ 
 
+![White sourdough bread, baked in Dutch Oven \(ds\)](.gitbook/assets/cover-bread.jpg)
+
