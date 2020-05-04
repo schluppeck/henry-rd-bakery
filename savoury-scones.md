@@ -27,11 +27,12 @@ makes 6
 ### Method
 
 1. Grind the spice mix in a pestle and mortar.
-2. Add to the other ingredients \(not curry leaves or mustard seeds\) and blitz everything in a food mixer until dough consistency.
-3. Roll out to 2cm depth, cut your scones.
-4. Brush tops with a little milk and sprinkle with mustard seeds and add 1 curry leaf per scone.
-5. Bake at 180ºC for 12-15 mins 
-6. Serve with pickles \(I love aubergine!\), chutneys or a bowl of red lentil dhal 
+2. Blitz the flour and butter to breadcrumb consistency in a food mixer \(or by hand!\)
+3. Add the spice mix and finally the other ingredients \(not mustard seeds or curry leaves\) and blitz to a dough consistency
+4. Roll out to 2cm depth, cut your scones.
+5. Brush tops with a little milk and sprinkle with mustard seeds and add 1 curry leaf per scone.
+6. Bake at 180ºC for 12-15 mins 
+7. Serve with pickles \(I love aubergine!\), chutneys or a bowl of red lentil dhal 
 
 #### Spice mix, before and after
 
