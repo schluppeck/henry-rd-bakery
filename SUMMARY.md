@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Bagels](bagels.md)
 * [Ciabatta](ciabatta.md)
+* [Cinnamon Buns \(Bertinet's best\)](cinnamon-buns-bertinets-best.md)
 * [Clementine Polenta Cake \(GF\)](clementine-polenta-cake-gf.md)
 * [Date and Oat Fruit Loaf](date-and-oat-fruit-loaf.md)
 * [German-style Apple Cake](german-style-apple-cake.md)
